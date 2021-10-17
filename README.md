@@ -3,7 +3,7 @@
 I am Mahmoud Elshahatt, An Engineering Student (CSED lvl 200) at Mansoura University , I am intersted in Computer Science in general and Software Development in specific way.
 
 
-I’m studying mobile development technologies like Android native and Flutter.
+I’m studying mobile development technologies like Android native and Flutter./n
 I’m currently learning about Database, Back-End, Algorithms and Data Structure with C++.
 Future Goals: Contribute more to the community and learn more about Computer Science and new technologies that arise.
 
