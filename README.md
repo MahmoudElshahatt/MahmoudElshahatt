@@ -14,4 +14,4 @@ That's all 😃.
 [<img align="left" alt="Mahmoud | Linkedin" width="30px" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />](https://www.linkedin.com/in/mahmoudelshahatt/)
 
 
-![Ronaldo](https://ibb.co/7yYFCsg)
+
