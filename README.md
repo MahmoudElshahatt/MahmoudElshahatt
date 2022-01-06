@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**I am Mahmoud Elshahatt, An Engineering Student (CSED lvl 200) at Mansoura University , I am intersted in Computer Science in general and Software Development in specific way , I have the desire to prove my software abilities and i Seek to develop my self and my skills every day.**
+**I am Mahmoud Elshahatt, An Engineering Student (CSED lvl 200) at Mansoura University , I am intersted in Computer Science in general and Software Development in specific way , I have the desire to prove my software abilities and i seek to develop my self and my skills every day.**
 
 
 
