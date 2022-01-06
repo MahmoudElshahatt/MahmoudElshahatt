@@ -6,7 +6,7 @@
 * **I’m studying mobile development technologies like Android native and Flutter.**
 * **I’m currently learning about Database, Back-End, Algorithms and Data Structure with C++.**
 * **Future Goals: Contribute more to the community and learn more about Computer Science and new technologies that arise.**
-
+<br /><br />
 
 **That's all 😃.**
 
