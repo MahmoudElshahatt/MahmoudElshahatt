@@ -14,6 +14,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoudelshahatt&show_icons=true&locale=en&layout=compact" alt="mahmoudelshahatt" /></p></br>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudelshahatt&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudelshahatt" /> </p>
 
  ## Contact With Me
 [<img align="left" alt="Mahmoud | email" width="30px" src="https://ssl.gstatic.com/ui/v1/icons/mail/images/favicon5.ico" />](mailto:MahmoudElshahatt1@gmail.com)
