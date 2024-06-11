@@ -4,7 +4,7 @@
 
 ⭐ **Android Developer at AAIT.**
 
-⭐ **Jr. Android Developer at Alexon Incorp.**
+⭐ **Ex- Jr. Android Developer at Alexon Incorp.**
 
 ⭐ **Head of Android Circle at CAT Reloaded.**
 * **I’m studying mobile development technologies like Android Native and Flutter.**
