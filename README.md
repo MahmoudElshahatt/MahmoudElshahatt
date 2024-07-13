@@ -6,7 +6,7 @@
 
 ⭐ **Ex- Jr. Android Developer at Alexon Incorp.**
 
-⭐ **Head of Android Circle at CAT Reloaded.**
+⭐ **Ex- Head of Android Circle at CAT Reloaded.**
 * **I’m studying mobile development technologies like Android Native and Flutter.**
 * **I’m currently learning about Back-End, Database, Algorithms, and Data Structure with C++.**
 * **Future Goals: Contribute more to the community and learn more about Computer Science and new technologies that arise.**
