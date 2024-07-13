@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**I am Mahmoud Elshahatt, An Engineering Student (CSED LVL 400) at Mansoura University, I am interested in Computer Science in general and Software Development in a specific way, and I have the desire to prove my software abilities and I seek to develop myself and my skills every day.**
+**I am Mahmoud Elshahatt, a graduate of the Computer Science and Engineering Department (CSED) at Mansoura University 2024, I am interested in Computer Science in general and Software Development in a specific way, and I have the desire to prove my software abilities and I seek to develop myself and my skills every day.**
 
 ⭐ **Android Developer at AAIT.**
 
