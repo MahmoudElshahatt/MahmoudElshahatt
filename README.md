@@ -1,15 +1,21 @@
 ## Hi there 👋
 
-**I am Mahmoud Elshahatt, a graduate of the Computer Science and Engineering Department (CSED) at Mansoura University 2024, I am interested in Computer Science in general and Software Development in a specific way, and I have the desire to prove my software abilities and I seek to develop myself and my skills every day.**
+**I’m Mahmoud Elshahatt — Android Engineer with 3+ years of hands-on experience shipping fast and rock-solid apps.
+Bachelor’s in Computer Science & Engineering – Mansoura University ’24.**
 
 ⭐ **Android Developer at AAIT.**
 
 ⭐ **Ex- Jr. Android Developer at Alexon Incorp.**
 
 ⭐ **Ex- Head of Android Circle at CAT Reloaded.**
-* **I’m studying mobile development technologies like Android Native and Flutter.**
-* **I’m currently learning about Back-End, Database, Algorithms, and Data Structure with C++.**
-* **Future Goals: Contribute more to the community and learn more about Computer Science and new technologies that arise.**
+
+**What I bring to the table:**
+
+• **Modern Android stack (Kotlin • Jetpack Compose • Clean Architecture • MVVM • Hilt • Coroutines/Flow • Modularization).**
+
+• **Pixel-perfect UI + buttery-smooth performance.**
+
+• **Clean, testable, and scalable code.**
 
 **That's all 😃.**
 
