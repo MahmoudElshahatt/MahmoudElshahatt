@@ -11,11 +11,11 @@ Bachelor’s in Computer Science & Engineering – Mansoura University ’24.**
 
 **What I bring to the table:**
 
-• **Modern Android stack (Kotlin • Jetpack Compose • Clean Architecture • MVVM • Hilt • Coroutines/Flow • Modularization).**
+* **Modern Android stack (Kotlin • Jetpack Compose • Clean Architecture • MVVM • Hilt • Coroutines/Flow • Modularization).**
 
-• **Pixel-perfect UI + buttery-smooth performance.**
+* **Pixel-perfect UI + buttery-smooth performance.**
 
-• **Clean, testable, and scalable code.**
+* **Clean, testable, and scalable code.**
 
 **That's all 😃.**
 
